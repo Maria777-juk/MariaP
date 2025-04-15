@@ -1,0 +1,12 @@
+C:\Users\maria\Desktop\C#-MG\MariaP\MariaPanayotova15.04\Business Layer\bin\Debug\net7.0\Business Layer.deps.json
+C:\Users\maria\Desktop\C#-MG\MariaP\MariaPanayotova15.04\Business Layer\bin\Debug\net7.0\Business Layer.dll
+C:\Users\maria\Desktop\C#-MG\MariaP\MariaPanayotova15.04\Business Layer\bin\Debug\net7.0\Business Layer.pdb
+C:\Users\maria\Desktop\C#-MG\MariaP\MariaPanayotova15.04\Business Layer\obj\Debug\net7.0\Business Layer.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\C#-MG\MariaP\MariaPanayotova15.04\Business Layer\obj\Debug\net7.0\Business Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Desktop\C#-MG\MariaP\MariaPanayotova15.04\Business Layer\obj\Debug\net7.0\Business Layer.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\C#-MG\MariaP\MariaPanayotova15.04\Business Layer\obj\Debug\net7.0\Business Layer.AssemblyInfo.cs
+C:\Users\maria\Desktop\C#-MG\MariaP\MariaPanayotova15.04\Business Layer\obj\Debug\net7.0\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\C#-MG\MariaP\MariaPanayotova15.04\Business Layer\obj\Debug\net7.0\Business Layer.dll
+C:\Users\maria\Desktop\C#-MG\MariaP\MariaPanayotova15.04\Business Layer\obj\Debug\net7.0\refint\Business Layer.dll
+C:\Users\maria\Desktop\C#-MG\MariaP\MariaPanayotova15.04\Business Layer\obj\Debug\net7.0\Business Layer.pdb
+C:\Users\maria\Desktop\C#-MG\MariaP\MariaPanayotova15.04\Business Layer\obj\Debug\net7.0\ref\Business Layer.dll
